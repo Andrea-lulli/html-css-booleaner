@@ -6,24 +6,35 @@
 
 body{
     width: 80%;
-
+    margin: auto;
 }
+
 header{
 background-image: url(img/pattern.png);
 background-size: 20%;
 background-color: rgb(44, 158, 224);
 }
+
 header img{
     width: 15%;
     margin-top: 10px;
 }
 
-.autore{
+.nome{
     color: aqua;
 }
 
-.img1 img2 {
-    width: 40%;
+.autore{
+    font-size: 12px;
+}
+
+.data{
+    font-size: 12px;
+}
+
+
+.descrizione{
+    font-size: 10px;
 }
 
 .testo{
@@ -47,17 +58,18 @@ table{
 thead{
    color: white;
    background-color: rgb(44, 158, 224) ; 
+   text-align: left;
 }
 
 .right-column{
     width: 40%;
 }
 
-.tabella1 {
+.riga1 {
     background-color: aqua;
 }
 
-.tabella3 {
+.riga3 {
     background-color: aqua;
 }
 
@@ -83,5 +95,6 @@ h3{
     height: 150px;
     padding-top: 10px;
     color: white;
+    margin-top: 10px;
 }
 
