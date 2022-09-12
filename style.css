@@ -26,15 +26,21 @@ header img{
 
 .autore{
     font-size: 12px;
+    color: gray;
 }
 
 .data{
     font-size: 12px;
+    color: grey;
 }
 
 
 .descrizione{
     font-size: 10px;
+}
+
+.titolo {
+    padding: 10px 0;
 }
 
 .testo{
