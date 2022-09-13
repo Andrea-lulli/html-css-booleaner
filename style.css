@@ -91,6 +91,7 @@ h3{
     height: 150px;
     padding-top: 10px;
     color: white;
+    background-position: center; 
 
 }
 
@@ -102,5 +103,6 @@ h3{
     padding-top: 10px;
     color: white;
     margin-top: 10px;
+    background-position: center; 
 }
 
